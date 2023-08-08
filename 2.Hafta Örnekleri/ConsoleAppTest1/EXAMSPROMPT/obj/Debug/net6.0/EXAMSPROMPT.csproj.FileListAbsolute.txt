@@ -1,0 +1,15 @@
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\obj\Debug\net6.0\EXAMSPROMPT.csproj.AssemblyReference.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\obj\Debug\net6.0\EXAMSPROMPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\obj\Debug\net6.0\EXAMSPROMPT.AssemblyInfoInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\obj\Debug\net6.0\EXAMSPROMPT.AssemblyInfo.cs
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\obj\Debug\net6.0\EXAMSPROMPT.csproj.CoreCompileInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\bin\Debug\net6.0\EXAMSPROMPT.exe
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\bin\Debug\net6.0\EXAMSPROMPT.deps.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\bin\Debug\net6.0\EXAMSPROMPT.runtimeconfig.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\bin\Debug\net6.0\EXAMSPROMPT.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\bin\Debug\net6.0\EXAMSPROMPT.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\obj\Debug\net6.0\EXAMSPROMPT.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\obj\Debug\net6.0\refint\EXAMSPROMPT.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\obj\Debug\net6.0\EXAMSPROMPT.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\obj\Debug\net6.0\EXAMSPROMPT.genruntimeconfig.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSPROMPT\obj\Debug\net6.0\ref\EXAMSPROMPT.dll

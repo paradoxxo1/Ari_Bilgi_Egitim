@@ -1,0 +1,15 @@
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\bin\Debug\net6.0\ConsoleAppTest11.exe
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\bin\Debug\net6.0\ConsoleAppTest11.deps.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\bin\Debug\net6.0\ConsoleAppTest11.runtimeconfig.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\bin\Debug\net6.0\ConsoleAppTest11.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\bin\Debug\net6.0\ConsoleAppTest11.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\obj\Debug\net6.0\ConsoleAppTest11.csproj.AssemblyReference.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\obj\Debug\net6.0\ConsoleAppTest11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\obj\Debug\net6.0\ConsoleAppTest11.AssemblyInfoInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\obj\Debug\net6.0\ConsoleAppTest11.AssemblyInfo.cs
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\obj\Debug\net6.0\ConsoleAppTest11.csproj.CoreCompileInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\obj\Debug\net6.0\ConsoleAppTest11.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\obj\Debug\net6.0\refint\ConsoleAppTest11.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\obj\Debug\net6.0\ConsoleAppTest11.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\obj\Debug\net6.0\ConsoleAppTest11.genruntimeconfig.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\ConsoleAppTest11\obj\Debug\net6.0\ref\ConsoleAppTest11.dll

@@ -1,0 +1,15 @@
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\obj\Debug\net6.0\EXAMSS2PROMPT.csproj.AssemblyReference.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\obj\Debug\net6.0\EXAMSS2PROMPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\obj\Debug\net6.0\EXAMSS2PROMPT.AssemblyInfoInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\obj\Debug\net6.0\EXAMSS2PROMPT.AssemblyInfo.cs
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\obj\Debug\net6.0\EXAMSS2PROMPT.csproj.CoreCompileInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\bin\Debug\net6.0\EXAMSS2PROMPT.exe
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\bin\Debug\net6.0\EXAMSS2PROMPT.deps.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\bin\Debug\net6.0\EXAMSS2PROMPT.runtimeconfig.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\bin\Debug\net6.0\EXAMSS2PROMPT.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\bin\Debug\net6.0\EXAMSS2PROMPT.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\obj\Debug\net6.0\EXAMSS2PROMPT.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\obj\Debug\net6.0\refint\EXAMSS2PROMPT.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\obj\Debug\net6.0\EXAMSS2PROMPT.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\obj\Debug\net6.0\EXAMSS2PROMPT.genruntimeconfig.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\EXAMSS2PROMPT\obj\Debug\net6.0\ref\EXAMSS2PROMPT.dll

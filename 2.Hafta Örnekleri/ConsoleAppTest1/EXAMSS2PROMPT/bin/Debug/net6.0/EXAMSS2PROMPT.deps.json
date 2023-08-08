@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EXAMSS2PROMPT/1.0.0": {
+        "runtime": {
+          "EXAMSS2PROMPT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EXAMSS2PROMPT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

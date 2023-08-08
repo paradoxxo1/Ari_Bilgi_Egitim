@@ -1,0 +1,15 @@
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\bin\Debug\net6.0\Endeks.exe
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\bin\Debug\net6.0\Endeks.deps.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\bin\Debug\net6.0\Endeks.runtimeconfig.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\bin\Debug\net6.0\Endeks.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\bin\Debug\net6.0\Endeks.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\obj\Debug\net6.0\Endeks.csproj.AssemblyReference.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\obj\Debug\net6.0\Endeks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\obj\Debug\net6.0\Endeks.AssemblyInfoInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\obj\Debug\net6.0\Endeks.AssemblyInfo.cs
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\obj\Debug\net6.0\Endeks.csproj.CoreCompileInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\obj\Debug\net6.0\Endeks.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\obj\Debug\net6.0\refint\Endeks.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\obj\Debug\net6.0\Endeks.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\obj\Debug\net6.0\Endeks.genruntimeconfig.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Endeks\obj\Debug\net6.0\ref\Endeks.dll

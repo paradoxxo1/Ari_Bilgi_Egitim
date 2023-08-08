@@ -1,0 +1,15 @@
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\obj\Debug\net6.0\TESTAPP.csproj.AssemblyReference.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\obj\Debug\net6.0\TESTAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\obj\Debug\net6.0\TESTAPP.AssemblyInfoInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\obj\Debug\net6.0\TESTAPP.AssemblyInfo.cs
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\obj\Debug\net6.0\TESTAPP.csproj.CoreCompileInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\bin\Debug\net6.0\TESTAPP.exe
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\bin\Debug\net6.0\TESTAPP.deps.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\bin\Debug\net6.0\TESTAPP.runtimeconfig.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\bin\Debug\net6.0\TESTAPP.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\bin\Debug\net6.0\TESTAPP.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\obj\Debug\net6.0\TESTAPP.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\obj\Debug\net6.0\refint\TESTAPP.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\obj\Debug\net6.0\TESTAPP.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\obj\Debug\net6.0\TESTAPP.genruntimeconfig.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\TESTAPP\obj\Debug\net6.0\ref\TESTAPP.dll

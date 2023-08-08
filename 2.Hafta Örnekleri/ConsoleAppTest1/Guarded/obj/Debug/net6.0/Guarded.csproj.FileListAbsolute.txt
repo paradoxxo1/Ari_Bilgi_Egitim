@@ -1,0 +1,15 @@
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\bin\Debug\net6.0\Guarded.exe
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\bin\Debug\net6.0\Guarded.deps.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\bin\Debug\net6.0\Guarded.runtimeconfig.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\bin\Debug\net6.0\Guarded.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\bin\Debug\net6.0\Guarded.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\obj\Debug\net6.0\Guarded.csproj.AssemblyReference.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\obj\Debug\net6.0\Guarded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\obj\Debug\net6.0\Guarded.AssemblyInfoInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\obj\Debug\net6.0\Guarded.AssemblyInfo.cs
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\obj\Debug\net6.0\Guarded.csproj.CoreCompileInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\obj\Debug\net6.0\Guarded.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\obj\Debug\net6.0\refint\Guarded.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\obj\Debug\net6.0\Guarded.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\obj\Debug\net6.0\Guarded.genruntimeconfig.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\ConsoleAppTest1\Guarded\obj\Debug\net6.0\ref\Guarded.dll
