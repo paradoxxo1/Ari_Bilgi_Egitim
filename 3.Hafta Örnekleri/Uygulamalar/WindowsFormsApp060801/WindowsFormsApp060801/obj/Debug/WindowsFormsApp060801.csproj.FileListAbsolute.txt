@@ -1,0 +1,11 @@
+C:\Users\isagok.ALTINSOYENERJI\source\repos\WindowsFormsApp060801\WindowsFormsApp060801\bin\Debug\WindowsFormsApp060801.exe.config
+C:\Users\isagok.ALTINSOYENERJI\source\repos\WindowsFormsApp060801\WindowsFormsApp060801\bin\Debug\WindowsFormsApp060801.exe
+C:\Users\isagok.ALTINSOYENERJI\source\repos\WindowsFormsApp060801\WindowsFormsApp060801\bin\Debug\WindowsFormsApp060801.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\WindowsFormsApp060801\WindowsFormsApp060801\obj\Debug\WindowsFormsApp060801.csproj.AssemblyReference.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\WindowsFormsApp060801\WindowsFormsApp060801\obj\Debug\WindowsFormsApp060801.csproj.SuggestedBindingRedirects.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\WindowsFormsApp060801\WindowsFormsApp060801\obj\Debug\WindowsFormsApp060801.Form1.resources
+C:\Users\isagok.ALTINSOYENERJI\source\repos\WindowsFormsApp060801\WindowsFormsApp060801\obj\Debug\WindowsFormsApp060801.Properties.Resources.resources
+C:\Users\isagok.ALTINSOYENERJI\source\repos\WindowsFormsApp060801\WindowsFormsApp060801\obj\Debug\WindowsFormsApp060801.csproj.GenerateResource.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\WindowsFormsApp060801\WindowsFormsApp060801\obj\Debug\WindowsFormsApp060801.csproj.CoreCompileInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\WindowsFormsApp060801\WindowsFormsApp060801\obj\Debug\WindowsFormsApp060801.exe
+C:\Users\isagok.ALTINSOYENERJI\source\repos\WindowsFormsApp060801\WindowsFormsApp060801\obj\Debug\WindowsFormsApp060801.pdb
