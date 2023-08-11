@@ -1,0 +1,11 @@
+C:\Users\isagok.ALTINSOYENERJI\source\repos\DICEGAME\DICEGAME\bin\Debug\DICEGAME.exe.config
+C:\Users\isagok.ALTINSOYENERJI\source\repos\DICEGAME\DICEGAME\bin\Debug\DICEGAME.exe
+C:\Users\isagok.ALTINSOYENERJI\source\repos\DICEGAME\DICEGAME\bin\Debug\DICEGAME.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\DICEGAME\DICEGAME\obj\Debug\DICEGAME.csproj.AssemblyReference.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\DICEGAME\DICEGAME\obj\Debug\DICEGAME.csproj.SuggestedBindingRedirects.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\DICEGAME\DICEGAME\obj\Debug\DICEGAME.Form1.resources
+C:\Users\isagok.ALTINSOYENERJI\source\repos\DICEGAME\DICEGAME\obj\Debug\DICEGAME.Properties.Resources.resources
+C:\Users\isagok.ALTINSOYENERJI\source\repos\DICEGAME\DICEGAME\obj\Debug\DICEGAME.csproj.GenerateResource.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\DICEGAME\DICEGAME\obj\Debug\DICEGAME.csproj.CoreCompileInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\DICEGAME\DICEGAME\obj\Debug\DICEGAME.exe
+C:\Users\isagok.ALTINSOYENERJI\source\repos\DICEGAME\DICEGAME\obj\Debug\DICEGAME.pdb
