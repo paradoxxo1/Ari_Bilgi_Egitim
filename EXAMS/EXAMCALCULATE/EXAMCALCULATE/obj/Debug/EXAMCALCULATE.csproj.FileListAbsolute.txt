@@ -1,0 +1,11 @@
+C:\Users\isagok.ALTINSOYENERJI\source\repos\EXAMCALCULATE\EXAMCALCULATE\obj\Debug\EXAMCALCULATE.csproj.AssemblyReference.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\EXAMCALCULATE\EXAMCALCULATE\obj\Debug\EXAMCALCULATE.csproj.SuggestedBindingRedirects.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\EXAMCALCULATE\EXAMCALCULATE\obj\Debug\EXAMCALCULATE.Form1.resources
+C:\Users\isagok.ALTINSOYENERJI\source\repos\EXAMCALCULATE\EXAMCALCULATE\obj\Debug\EXAMCALCULATE.Properties.Resources.resources
+C:\Users\isagok.ALTINSOYENERJI\source\repos\EXAMCALCULATE\EXAMCALCULATE\obj\Debug\EXAMCALCULATE.csproj.GenerateResource.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\EXAMCALCULATE\EXAMCALCULATE\obj\Debug\EXAMCALCULATE.csproj.CoreCompileInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\EXAMCALCULATE\EXAMCALCULATE\bin\Debug\EXAMCALCULATE.exe.config
+C:\Users\isagok.ALTINSOYENERJI\source\repos\EXAMCALCULATE\EXAMCALCULATE\bin\Debug\EXAMCALCULATE.exe
+C:\Users\isagok.ALTINSOYENERJI\source\repos\EXAMCALCULATE\EXAMCALCULATE\bin\Debug\EXAMCALCULATE.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\EXAMCALCULATE\EXAMCALCULATE\obj\Debug\EXAMCALCULATE.exe
+C:\Users\isagok.ALTINSOYENERJI\source\repos\EXAMCALCULATE\EXAMCALCULATE\obj\Debug\EXAMCALCULATE.pdb
